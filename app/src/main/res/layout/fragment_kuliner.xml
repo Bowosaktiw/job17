@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/material_dynamic_neutral70"
+    tools:context=".KulinerFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="KULINER"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginTop="10sp"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Jurusan manajemen kuliner atau yang juga biasa disebut culinary management adalah jurusan yang mempelajari terkait pengelolaan dan manajemen pada bidang kuliner, seperti manajemen restor, pengelolaan sumber daya manusia, keselamatan dapur, operasional stok bahan, inovasi menu, hingga pengelolaan interior restoran"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:layout_marginTop="70sp"
+        android:textAlignment="center"/>
+
+</FrameLayout>

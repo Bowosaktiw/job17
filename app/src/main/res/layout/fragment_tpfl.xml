@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/design_default_color_primary"
+    tools:context=".BusanaFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="TEKNIK PENGELASAN DAN FABRIKASI LOGAM"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#fff"
+        android:layout_marginTop="10sp"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Teknik Pengelasan adalah jurusan yang mempelajari tentang Dunia Kerja di Bidang Pengelasan, yang cakupannya sangat luas. Lulusan SMK dari Jurusan Teknik Pengelasan sangatlah berpotensi untuk mendapat pekerjaan bahkan bisa membuka lapangan pekerjaan."
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:fontFamily="sans-serif"
+        android:layout_marginTop="90sp"
+        android:textAlignment="center"/>
+
+</FrameLayout>
